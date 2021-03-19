@@ -1,0 +1,193 @@
+16:59:11 **** Rebuild of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+17:51:25 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+18:08:34 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+Info: Nothing to build for hola mundo
+18:09:01 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+18:09:12 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+18:19:17 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+Info: Nothing to build for hola mundo
+18:19:58 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+18:21:43 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file hola mundo.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:21:50 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+18:23:20 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hola mundo.o" "..\\src\\hola mundo.c" 
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file hola mundo.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:23:34 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file hola mundo.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:23:44 **** Incremental Build of configuration Debug for project hola mundo ****
+Info: Internal Builder is used for build
+gcc -o "hola mundo.exe" "src\\hola mundo.o" 
+Info: Nothing to build for hola mundo
+19:17:39 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+Info: Nothing to build for hola mundo
+19:20:41 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+Info: Nothing to build for hola mundo
+19:22:44 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+19:27:39 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+19:34:06 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+19:35:27 **** Building Selected Files of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+19:39:56 **** Rebuild of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+gcc -o Programa1.exe "src\\Programa1.o" 
+Info: Nothing to build for Programa1
+19:42:59 **** Incremental Build of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+gcc -o Programa1.exe "src\\Programa1.o" 
+Info: Nothing to build for Programa1
+19:50:14 **** Incremental Build of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+..\src\Programa1.c: In function 'main':
+..\src\Programa1.c:23:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",numero1);
+          ^
+..\src\Programa1.c:25:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",numero2);
+          ^
+..\src\Programa1.c:23:2: warning: 'numero1' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",numero1);
+  ^~~~~~~~~~~~~~~~~~~
+..\src\Programa1.c:25:2: warning: 'numero2' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",numero2);
+  ^~~~~~~~~~~~~~~~~~~
+gcc -o Programa1.exe "src\\Programa1.o" 
+19:51:37 **** Incremental Build of configuration Debug for project Programa1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa1.o" "..\\src\\Programa1.c" 
+gcc -o Programa1.exe "src\\Programa1.o" 
+Info: Nothing to build for Programa1
+20:50:59 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+20:51:05 **** Rebuild of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+gcc -o Programa2.exe "src\\Programa2.o" 
+20:51:18 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+20:51:30 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+20:51:35 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+gcc -o Programa2.exe "src\\Programa2.o" 
+20:54:25 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+20:54:29 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+gcc -o Programa2.exe "src\\Programa2.o" 
+21:04:43 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+21:07:32 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+21:07:50 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+gcc -o Programa2.exe "src\\Programa2.o" 
+21:08:28 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+21:08:32 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+21:08:40 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+..\src\Programa2.c: In function 'main':
+..\src\Programa2.c:34:38: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+  printf("El promedio de numeros es: %d.",resultadoPromedio);
+                                      ^
+gcc -o Programa2.exe "src\\Programa2.o" 
+21:11:12 **** Building Selected Files of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+21:11:16 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+gcc -o Programa2.exe "src\\Programa2.o" 

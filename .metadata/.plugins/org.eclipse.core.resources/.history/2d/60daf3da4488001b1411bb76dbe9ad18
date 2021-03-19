@@ -1,0 +1,17 @@
+/*
+ ============================================================================
+ Name        : Programa2.c
+ Author      : Julio
+ Version     :
+ Copyright   : Free for all
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	puts("Todo manso"); /* prints Todo manso */
+	return EXIT_SUCCESS;
+}

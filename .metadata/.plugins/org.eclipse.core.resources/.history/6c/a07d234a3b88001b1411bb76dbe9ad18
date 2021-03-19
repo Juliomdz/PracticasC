@@ -1,0 +1,19 @@
+/*
+ ============================================================================
+ Name        : Programa1.c
+ Author      : Julio
+ Version     :
+ Copyright   : Free for all
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	printf("Todo manso\n"); /* prints Todo manso */
+	printf("linea2");
+
+	return EXIT_SUCCESS;
+}

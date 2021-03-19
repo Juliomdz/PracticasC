@@ -1,0 +1,7 @@
+21:11:16 **** Incremental Build of configuration Debug for project Programa2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Programa2.o" "..\\src\\Programa2.c" 
+gcc -o Programa2.exe "src\\Programa2.o" 
+
+21:11:17 Build Finished. 0 errors, 0 warnings. (took 288ms)
+
